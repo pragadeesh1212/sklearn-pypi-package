@@ -55,6 +55,6 @@ if __name__ == "__main__":
         description="deprecated sklearn package, use scikit-learn instead",
         long_description=LONG_DESCRIPTION,
         long_description_content_type="text/markdown",
-        name="sklearn",
+        name="scikit-learn",
         version="0.0.post12",
     )
